@@ -315,7 +315,7 @@ Here is the complete ``Sprite2D.gd`` file for reference.
 .. tabs::
  .. code-tab:: gdscript GDScript
 
-    extends Sprite2D
+    extends Sprite
 
     var speed = 400
     var angular_speed = PI
